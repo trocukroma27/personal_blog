@@ -546,7 +546,7 @@ body.no-scroll {
 }
 
 .add-post__file {
-  background: #EBEBEB url("../../img/add-post/add-photo.svg") center no-repeat;
+  background: #EBEBEB url("../img/add-post/add-photo.svg") center no-repeat;
 }
 
 .add-post__file input {
@@ -562,7 +562,7 @@ body.no-scroll {
   font-size: 0;
   color: transparent;
   border: none;
-  background: #3137C9 url("../../img/add-post/send.svg") center no-repeat;
+  background: #3137C9 url("../img/add-post/send.svg") center no-repeat;
 }
 
 .add-post__send:hover {
